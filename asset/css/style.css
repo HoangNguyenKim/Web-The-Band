@@ -115,9 +115,45 @@ html{
 #slider .description{
     padding-top: 25px;
 }
+
+
 #content{
 
 }
+
+#content .content-section{
+    width: 800px;
+    margin: 0 auto;
+    padding: 64px 16px;
+}
+
+
+#content .content-section .section-heading,
+#content .content-section .section-sub-heading{
+    text-align: center;
+    
+}
+
+#content .content-section .section-heading{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 500;
+}
+
+#content .content-section .section-sub-heading{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    font-style: italic;
+    opacity: 0.6;
+}
+
+#content .content-section .about-text{
+    text-align: justify;
+    line-height: 1.6;
+}
+
+
 
 #footer{
 
